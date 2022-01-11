@@ -5,7 +5,7 @@ public class RemoveElements {
 		// Fill an ArrayList with the numbers 1-10
 		ArrayList<Integer> list = new ArrayList<Integer>();
 		for (int i = 1; i <= 10; i++) {
-			list.add(i); // These are test numbers, the grader will use different ones
+			list.add(i);
 		}
 
 		System.out.println("Before removing first 2 and last 2:\n" + list);
